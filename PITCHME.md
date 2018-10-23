@@ -1,6 +1,6 @@
-### Blockchain Kyoto 07
+### Blockchain Kyoto 08
 
-#### 2018/09/27
+#### 2018/10/23
 
 ---  
 ### 目的
@@ -15,8 +15,8 @@
 まずは自己紹介でアイスブレイク     
 
 #### 発表
-* hideogawa      
-* s_issy    
+* automatajin         
+* hideogawa    
      
 #### 話し合い
 * ブロックチェーンのメリット・デメリット
