@@ -13,7 +13,7 @@
 ### お知らせ
 * あらたさんに主催に参加してもらいました！
 * BlockchainKyotoのツイッターのアカウントを作りました。@BlockchainKyoto         
-* ブログも作りました。[Medium](https://medium.com/@BlockchainKyoto)       
+* ブログも作りました。[https://medium.com/@BlockchainKyoto](https://medium.com/@BlockchainKyoto)       
 * ブログは英語化したい。      
 * 京都は観光で来る関係者もいるらしく・・・       
 * あとこの会の画像も募集中です！      
