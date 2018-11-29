@@ -26,7 +26,7 @@
 
 #### 発表
 * IOST 太田さん　「POBとパートナーシップ」             
-* あらたさん        
+* あらたさん      「When to use Blockchain」  
 * 石野さん　「LevelDB」        
 * 小川　「マーケットデザイン」      
       
