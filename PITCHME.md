@@ -13,7 +13,7 @@
 
 ### きょうは誕生日だと言ったら・・・   
 
-![](slack.png)      
+![](/assets/img/slack.png)      
      
 ---     
 
