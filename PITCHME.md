@@ -1,6 +1,6 @@
-### Blockchain Kyoto 09
+### Blockchain Kyoto 10
 
-#### 2018/11/29
+#### 2018/12/18
 
 ---  
 ### 目的
@@ -10,13 +10,19 @@
 * 実際に何か作れれば    
      
 ---    
+
+### きょうは誕生日だと言ったら・・・    
+![](20181217.png)
+
+---     
+
 ### お知らせ
-* あらたさんに主催に参加してもらいました！
-* BlockchainKyotoのツイッターのアカウントを作りました。@BlockchainKyoto         
-* ブログも作りました。[https://medium.com/@BlockchainKyoto](https://medium.com/@BlockchainKyoto)       
-* ブログは英語化したい。      
-* 京都は観光で来る関係者もいるらしく・・・       
-* あとこの会の画像も募集中です！      
+* 運営はいしのさん、あらたさん、おがわの三人です       
+* BlockchainKyotoのツイッターのアカウント@BlockchainKyoto       
+* Twitterのハッシュタグは #blockchainkyoto       
+* ブログはmedium [https://medium.com/@BlockchainKyoto](https://medium.com/@BlockchainKyoto)       
+* gitter [https://gitter.im/hello-kyoto/blockchain](https://gitter.im/hello-kyoto/blockchain)
+
        
 ---        
        
