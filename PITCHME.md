@@ -32,10 +32,9 @@
 まずは自己紹介でアイスブレイク     
 
 #### 発表
-* IOST 太田さん　「POBとパートナーシップ」             
-* あらたさん      「When to use Blockchain」  
-* 石野さん　「LevelDB」        
-* 小川　「マーケットデザイン」      
+* IOST 太田さん　「IOSTの開発者報酬orブロックプロデューサーに関して」             
+* いしださん      「When to use Blockchain」  
+* おがわ「Redesign」      
       
 ---
 
